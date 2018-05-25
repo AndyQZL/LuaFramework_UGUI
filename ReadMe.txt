@@ -17,6 +17,9 @@ XlsxToLua:   https://github.com/zhangqi-ulua/XlsxToLua
 UnityHello:  https://github.com/woshihuo12/UnityHello
 Excel配置：https://github.com/sy-yanghuan/proton
 
+//-------------2018-05-26-------------
+(1)更新tolua#到May 21, 2018版
+
 //-------------2018-01-07-------------
 (1)更新tolua#到1.0.7.388版
 (2)修复AppConst.LuaByteMode = true报数据越界BUG
